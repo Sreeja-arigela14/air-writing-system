@@ -31,5 +31,8 @@ and draw on a virtual canvas in real time.
 | Press `Q` | Exit |
 
 ---
+## Working Video
+
+https://github.com/user-attachments/assets/72f60a30-05c1-4cc7-a8a1-061de302ec18
 
 ## 📁 Project Structure
